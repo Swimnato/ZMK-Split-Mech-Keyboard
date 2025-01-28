@@ -1,0 +1,15 @@
+file_format: "1"
+id: split
+name: Alpha Scorpii
+type: shield
+requires:
+  - nice_nano_v2
+exposes:
+#  - i2c_oled
+features:
+  - keys
+  - studio
+#  - display
+siblings:
+  - split_left
+  - split_right
