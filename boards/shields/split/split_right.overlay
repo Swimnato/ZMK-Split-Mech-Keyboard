@@ -22,5 +22,5 @@
 };
 
 &matrix_transform0 {
-    col-offset = <6>;
+    col-offset = <7>;
 };
