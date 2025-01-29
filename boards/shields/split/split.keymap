@@ -13,7 +13,7 @@
     &kp C_MUTE &kp TAB      &kp Q        &kp W        &kp E        &kp R        &kp T        &kp Y              &kp Y         &kp U         &kp I         &kp O         &kp P         &kp LBKT      &kp RBKT      &kp DELETE
                &kp CAPSLOCK &kp A        &kp S        &kp D        &kp F        &kp G        &kp H              &kp H         &kp J         &kp K         &kp L         &kp SEMICOLON &kp SQT       &kp ENTER
                &kp LSHIFT   &kp Z        &kp X        &kp C        &kp V        &kp B        &kp N              &kp N         &kp N         &kp M         &kp COMMA     &kp PERIOD    &kp SLASH     &kp RSHIFT
-                                                      &kp C_MUTE   &kp C_VOL_UP &kp C_VOL_DOWN &kp SPACE          &kp SPACE     &kp RIGHT_ALT &kp K_APP     &kp RCTRL
+                                                      &kp C_MUTE   &kp C_VOL_UP &kp C_VOL_DN &kp SPACE          &kp SPACE     &kp RIGHT_ALT &kp K_APP     &kp RCTRL
             >;
         };
 
