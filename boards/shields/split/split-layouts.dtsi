@@ -51,9 +51,9 @@
             , <&key_physical_attrs 100 100  510  240       0     0     0>
             , <&key_physical_attrs 100 100  630  240       0     0     0>
             , <&key_physical_attrs 100 100  750  240       0     0     0>
-            , <&key_physical_attrs 100 100  870  240       0     0     0>
+            , <&key_physical_attrs 100 100  890  240       0     0     0>
 
-            , <&key_physical_attrs 100 100 1040  240       0     0     0>
+            , <&key_physical_attrs 100 100 1020  240       0     0     0>
             , <&key_physical_attrs 100 100 1160  240       0     0     0>
             , <&key_physical_attrs 100 100 1280  240       0     0     0>
             , <&key_physical_attrs 100 100 1400  240       0     0     0>
