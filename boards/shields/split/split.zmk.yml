@@ -9,6 +9,7 @@ exposes:
 features:
   - keys
   - studio
+  - encoder
 #  - display
 siblings:
   - split_left

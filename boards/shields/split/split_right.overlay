@@ -24,3 +24,7 @@
 &matrix_transform0 {
     col-offset = <7>;
 };
+
+&right_encoder {
+    status = "okay";
+};
