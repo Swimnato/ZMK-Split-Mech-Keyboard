@@ -53,14 +53,14 @@
             , <&key_physical_attrs 100 100  750  240       0     0     0>
             , <&key_physical_attrs 100 100  870  240       0     0     0>
 
-            , <&key_physical_attrs 100 100 1070  240       0     0     0>
-            , <&key_physical_attrs 100 100 1190  240       0     0     0>
-            , <&key_physical_attrs 100 100 1310  240       0     0     0>
-            , <&key_physical_attrs 100 100 1430  240       0     0     0>
-            , <&key_physical_attrs 100 100 1550  240       0     0     0>
-            , <&key_physical_attrs 100 100 1670  240       0     0     0>
-            , <&key_physical_attrs 100 100 1790  240       0     0     0>
-            , <&key_physical_attrs 160 100 1910  240       0     0     0>
+            , <&key_physical_attrs 100 100 1040  240       0     0     0>
+            , <&key_physical_attrs 100 100 1160  240       0     0     0>
+            , <&key_physical_attrs 100 100 1280  240       0     0     0>
+            , <&key_physical_attrs 100 100 1400  240       0     0     0>
+            , <&key_physical_attrs 100 100 1520  240       0     0     0>
+            , <&key_physical_attrs 100 100 1640  240       0     0     0>
+            , <&key_physical_attrs 100 100 1760  240       0     0     0>
+            , <&key_physical_attrs 160 100 1880  240       0     0     0>
 
 
             , <&key_physical_attrs 220 100    0  360       0     0     0>
@@ -88,13 +88,13 @@
             , <&key_physical_attrs 100 100  780  480       0     0     0>
             , <&key_physical_attrs 100 100  900  480       0     0     0>
 
-            , <&key_physical_attrs 100 100 1020  480       0     0     0>
-            , <&key_physical_attrs 100 100 1140  480       0     0     0>
-            , <&key_physical_attrs 100 100 1260  480       0     0     0>
-            , <&key_physical_attrs 100 100 1380  480       0     0     0>
-            , <&key_physical_attrs 100 100 1500  480       0     0     0>
-            , <&key_physical_attrs 100 100 1620  480       0     0     0>
-            , <&key_physical_attrs 280 100 1740  480       0     0     0>
+            , <&key_physical_attrs 100 100 1040  480       0     0     0>
+            , <&key_physical_attrs 100 100 1160  480       0     0     0>
+            , <&key_physical_attrs 100 100 1280  480       0     0     0>
+            , <&key_physical_attrs 100 100 1400  480       0     0     0>
+            , <&key_physical_attrs 100 100 1520  480       0     0     0>
+            , <&key_physical_attrs 100 100 1640  480       0     0     0>
+            , <&key_physical_attrs 280 100 1760  480       0     0     0>
 
 
             , <&key_physical_attrs 220 100    0  600       0     0     0>
@@ -102,10 +102,10 @@
             , <&key_physical_attrs 100 100  420  600       0     0     0>
             , <&key_physical_attrs 340 100  540  600       0     0     0>
 
-            , <&key_physical_attrs 220 100  212  600       0     0     0>
-            , <&key_physical_attrs 160 100  337  600       0     0     0>
-            , <&key_physical_attrs 100 100  452  600       0     0     0>
-            , <&key_physical_attrs 100 100  549  600       0     0     0>
+            , <&key_physical_attrs 220 100 1220  600       0     0     0>
+            , <&key_physical_attrs 160 100 1400  600       0     0     0>
+            , <&key_physical_attrs 100 100 1580  600       0     0     0>
+            , <&key_physical_attrs 340 100 1700  600       0     0     0>
             ;
     };
 };
